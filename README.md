@@ -59,9 +59,9 @@ Paste this template inside `application.md`:
 
 ```bash
 
-#  🧑‍💻 YoureName - Application
+#  🧑‍💻 YourName - Application
 
-- **Nmae**: Your Name 
+- **Name**: Your Name 
 - **Discord**: Discord Username
 - **GitHub**: https://github.com/username
 - **Languages**: 
@@ -88,23 +88,6 @@ npm run dev
 1. Your Name
 
 ```
-
-6️⃣ Build Project
-
-This will compile the TypeScript files into `/dist`:
-
-```bash
-npm run build
-```
-
-Then run the production output:
-
-```bash
-npm run start
-```
-
-✅ Output should still show your developer name.
-
 
 ### 7️⃣ Commit and Push
 

@@ -1,10 +1,9 @@
+# duyetvn89 - Application
 
-#  üßë‚Äçüíª YoureName - Application
-
-- **Name**: Mow 
-- **Discord**: _mflow
-- **GitHub**: https://github.com/pnpn1212
-- **Languages**: EN/VN
-- **Experience**: I have 5 years of experience running nodes
-- **AI Tools**: ChatGPT, Copilot, Grok
-- **Why Join?**: Get early access and potentially receive airdrops or token incentives
+- Name: duyet
+- Discord: duyetvn89
+- GitHub: https://github.com/duyetcnt
+- Languages: English, Vietnamese
+- Experience: Web3 node runner & testnet contributor (2+ yrs) | Graphic designer (13 yrs) blending tech & creativity for decentralized ecosystems.
+- AI Tools: ChatGPT, Gemini
+- Why Join?: Iíd love to contribute to your project ó both technically and creatively!
