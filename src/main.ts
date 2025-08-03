@@ -1,14 +1,12 @@
 // src/main.ts
-
 export const devRegistry = [
-  // {
-  //   name: "Your Name",
-  //   folder: "template",
-  // },
-
-  // 🔰 New devs just add entry here
+  {
+    name: "Nutcracker", 
+    folder: "nutcracker-dev",
+  },
   {
     name: "Laldinpuia",
     folder: "laldinpuia-dev",
   },
+  // 🔰 New devs just add entry here
 ];
