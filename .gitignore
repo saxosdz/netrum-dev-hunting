@@ -12,4 +12,3 @@ dist/main.js
 # TypeScript build info
 *.tsbuildinfo
 tsconfig.main.buildinfo
-tsconfig.main.tsbuildinfo
