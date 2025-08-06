@@ -1,10 +1,6 @@
 // src/main.ts
 export const devRegistry = [
   {
-    name: "Nutcracker", 
-    folder: "nutcracker-dev",
-  },
-  {
     name: "Laldinpuia",
     folder: "laldinpuia-dev",
   },
