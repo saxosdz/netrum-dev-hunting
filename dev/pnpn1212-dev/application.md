@@ -1,4 +1,4 @@
-#  🧑‍💻 YoureName - Application
+#  🧑‍💻 Mow - Application
 
 - **Name**: Mow 
 - **Discord**: _mflow
