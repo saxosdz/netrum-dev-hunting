@@ -1,4 +1,4 @@
-#  🧑‍💻 YoureName - Application
+#  🧑‍💻 Chicharito - Application
 
 - **Name**: Chicharito 
 - **Discord**: 0xchicharito
