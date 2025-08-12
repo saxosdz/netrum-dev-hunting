@@ -30,7 +30,7 @@ git clone https://github.com/<your-github-username>/Netrum-Dev-Hunting.git
    - Enter Folder 
 
    ```bash
-   cd Netrum-Dev-Hunting
+   cd netrum-dev-hunting
    ```
 
 ### 3️⃣ Install Dependencies
@@ -117,4 +117,5 @@ git push origin main
 
 Netrum Labs | 🌐 [https://netrumlabs.com/](https://netrumlabs.com/)  
 Join our Discord for help 💬 [https://discord.gg/87hVVDuppf](https://discord.gg/87hVVDuppf)
+
 
