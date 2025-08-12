@@ -7,4 +7,8 @@ export const devRegistry = [
   },
   
   // 🔰 New devs just add entry here
+  {
+    name: "akton0208",
+    folder: "akton0208-dev",
+  }
 ];
