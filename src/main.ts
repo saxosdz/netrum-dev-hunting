@@ -6,5 +6,9 @@ export const devRegistry = [
     folder: "template",
   },
   
-  // 🔰 New devs just add entry here
+  // ?? New devs just add entry here
+  {
+    name: "Veriznode",
+    folder: "veriznode-dev",
+  },
 ];
