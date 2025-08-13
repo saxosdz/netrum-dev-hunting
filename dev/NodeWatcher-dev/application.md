@@ -1,4 +1,4 @@
-#  🧑‍💻 YoureName - Application
+#  🧑‍💻 NodeWatcher - Application
 
 - **Name**: NodeWatcher
 - **Discord**: nodewatcher
