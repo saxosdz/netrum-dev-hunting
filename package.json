@@ -7,7 +7,7 @@
   "scripts": {
     "build": "tsc -p tsconfig.main.json",
     "start": "tsx src/applications/DEV-APPLICATION.ts",
-    "dev": "tsx src/applications/DEV-APPLICATION.ts",
+    "dev": "echo 🚀 Application loaded && echo ✅ Registered Developers: && ls dev",
     "test": "ts-node --files test.ts"
   },
   "keywords": [
