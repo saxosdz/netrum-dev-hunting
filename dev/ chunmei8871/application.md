@@ -1,8 +1,8 @@
-🧑‍💻 chunmei8871 - Application
-Name: chunmei
+🧑‍💻 ChunMei - Application
+Name: ChunMei
 Discord: chunmei8871
 GitHub: https://github.com/chuanmei8871
-Languages: English & Vietnamese
+Languages: EN/VN
 Experience: Running Node Validator, Ambassador, User Testnet
-AI Tools: Gemini, ChatGPT
-Why Join?: I want to contribute and be part of Netrum AI's future success. 
+AI Tools: ChatGPT, Gemini
+Why Join?:  I want to contribute and be part of Netrum AI's future success. 
