@@ -1,5 +1,3 @@
-# cryptonaito - Application
-
 - **Name**: cryptonaito
 - **Discord**: maydou
 - **GitHub**: https://github.com/saxosdz
